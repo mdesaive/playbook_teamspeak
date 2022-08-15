@@ -1,0 +1,5 @@
+---
+# file: site.yml
+- hosts: ts-01.gamezone.pussy-hosting.berlin
+  roles:
+    - role_app_teamspeak
